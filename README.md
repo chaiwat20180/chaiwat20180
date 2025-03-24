@@ -24,11 +24,22 @@
 </div>
 <br>
 
-## My Project List
+## 📝 My Project List
 - 🔥[MySQLTools](https://chaiwat20180.github.io/MySQLTools/)
 - [Random Lotterly Number](https://chaiwat20180.github.io/RandomLotteryNumber/)
 <br>
 
 ## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=chaiwat20180&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaiwat20180&show_icons=true&theme=radical)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/652869563138179091) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kchaiwat24) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaiwat.k0912) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ckwant20230) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KeepPlayIT) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaiwat20180@gmail.com) 
+<br>
+<br>
+
