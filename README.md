@@ -26,7 +26,7 @@
 
 ## 📝 My Project List
 - 🔥[MySQLTools](https://chaiwat20180.github.io/MySQLTools/)
-- [Random Lotterly Number](https://chaiwat20180.github.io/RandomLotteryNumber/)
+- [Random Lottery Number](https://chaiwat20180.github.io/RandomLotteryNumber/)
 <br>
 
 ## 📈 GitHub Stats
