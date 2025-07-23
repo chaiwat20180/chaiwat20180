@@ -29,6 +29,7 @@
 - [🎰 Random Lottery Number](https://chaiwat20180.github.io/RandomLotteryNumber/)
 - [📝 Excel Editor By Ai](https://chaiwat20180.github.io/ExcelEditorByAi/)
 - [🔄 Data to Json](https://chaiwat20180.github.io/DataToJson/)
+- [📱 HexRangeCalculator](https://chaiwat20180.github.io/HexRangeCalculator/)
 <br>
 
 ## 📈 GitHub Stats
