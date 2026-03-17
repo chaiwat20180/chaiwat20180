@@ -31,6 +31,7 @@
 - [📝 Excel Editor By Ai](https://chaiwat20180.github.io/ExcelEditorByAi/)
 - [🔄 Data to Json](https://chaiwat20180.github.io/DataToJson/)
 - [📱 HexRangeCalculator](https://chaiwat20180.github.io/HexRangeCalculator/)
+- [🛠 WritingPracticeTemplateGenerator](https://chaiwat20180.github.io/WritingPracticeTemplateGenerator/)
 <br>
 
 ## 📈 GitHub Stats
